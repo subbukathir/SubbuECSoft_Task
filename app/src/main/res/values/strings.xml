@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SubbuECSoft_Task</string>
+    <string name="lbl_welcome">Welcome</string>
+    <string name="lbl_languages">Languages</string>
+    <string name="lbl_view_languages">View Languages</string>
+    <string name="msg_error">Sorry! Data not found Check your network connectivity and try again</string>
+    <string name="lbl_retry">Retry</string>
+
+</resources>

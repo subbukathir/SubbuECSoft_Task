@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/match_parent_style"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/ll_data_found"
+        style="@style/match_parent_style"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/tv_welcome"
+            android:text="@string/app_name"
+            style="@style/textview_style"/>
+        <TextView
+            android:id="@+id/tv_app_description"
+            android:text="@string/app_name"
+            android:alpha=".7"
+            style="@style/textview_style"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_error"
+        style="@style/match_parent_style"
+        android:gravity="center"
+        android:orientation="vertical">
+        <TextView
+            style="@style/textview_style"
+            android:text="@string/msg_error"/>
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_retry"
+            style="@style/match_wrap_style"
+            android:text="@string/lbl_retry"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="@dimen/text_size_large"
+            android:padding="@dimen/space_layout_padding"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="@dimen/space_layout_margin"/>
+    </LinearLayout>
+
+
+</LinearLayout>

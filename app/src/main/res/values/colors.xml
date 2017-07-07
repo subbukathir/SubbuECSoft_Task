@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary"> #1a2229</color>
+    <color name="colorPrimaryDark">#1c1a43</color>
+    <color name="colorPrimaryLight">#C8E6C9</color>
+    <color name="colorAccent">#00ACAC</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <color name="colorNavLbl">#2d353c</color>
+    <color name="colorButton">#00ACAC</color>
+    <color name="btnClear">#ff5b57</color>
+    <color name="colorUnlike">#ADAFAF</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="color_fifty_percentage_accent">#50C41230</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#111</color>
+    <color name="colorBlue">#044092</color>
+    <color name="color_fab">#3FB5A3</color> <!-- #7C4DFF , #3FB5A3 -->
+    <color name="color_light_grey">#ededed</color>
+    <color name="color_red">#FF0000</color>
+    <color name="color_active">#49b6d6</color>
+    <color name="color_inactive">#ff4800</color>
+    <color name="color_enrolled">#ffb300</color>
+    <color name="color_gray">#80111111</color>
+</resources>
